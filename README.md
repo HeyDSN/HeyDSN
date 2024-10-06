@@ -1,33 +1,62 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+# 👋 Hello, I'm Deni Setiawan
 
-<br/>  
+## 🚀 About Me
+I'm a passionate software engineer specializing in backend development. Currently, I'm working at PT Telkom Indonesia (Persero) Tbk as a backend engineer. My responsibilities include collaborating with my team to implement new features requested by users and maintaining our services to ensure optimal performance and stability.
 
+## 🛠️ Technologies & Tools
+- Languages: Go, Node.js, TypeScript, Python, PHP
+- Databases: PostgreSQL, MySQL, MariaDB, MongoDB, Redis, Elasticsearch
+- Containerization: Docker
+- Virtualization: Proxmox, Unraid
+- CI/CD: GitLab, DroneCI
+- Other: Portainer, Pterodactyl, Plex, Arr stack, WireGuard, Home Assistant
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/heydsn" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/5993016" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/heydsn" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+## 🏠 Home Lab Enthusiast
+I'm passionate about tinkering with technology! My current home lab setup includes:
+- 2 mini PCs: one running Proxmox, the other running Unraid
+- Self-hosted services:
+  - Game server (Pterodactyl)
+  - Cloud Storage (Seafile)
+  - Media server (Plex and Arr stack)
+  - Remote access (Wake-on-LAN with Unsnap and WireGuard)
+  - Home automation (Home Assistant)
+  - Self-hosted GitLab
+  - Various Docker containers for testing and experimentation
 
-<br/>  
+## 🌟 Projects
+Here are some of the key projects I've worked on:
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=heydsn&&style=flat-square" align="center" />
-</div>  
+### Community Talk Apps
+An internal social media platform for companies, enabling users to share text, images, and videos. Features include commenting and liking content.
+- **Role:** Backend Developer
+- **Tech Stack:** 📗 Node.js, 🐳 Docker, 🐘 PostgreSQL, 🔴 Redis
 
-<br/>  
+### Culture Performance
+A task management application designed to improve work culture. It allows task assignment from leads, peers, or to subordinates, tracking start dates, deadlines, and statuses.
+- **Role:** Backend Developer
+- **Tech Stack:** 📗 Node.js, 📘 TypeScript, 🐳 Docker, 🐘 PostgreSQL, 🔴 Redis
 
-<div align="center"></div>
-<br />
+### Procurement Dashboard
+A monitoring and approval system for procurement processes. It includes management interfaces for monitoring status progress and step-by-step approvals.
+- **Role:** Backend Developer
+- **Tech Stack:** 📗 Node.js, 📘 TypeScript, 🐳 Docker, 🐘 PostgreSQL, 🔴 Redis
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+### Trash Bank
+An application for managing trash bank branches, featuring a dashboard for each branch and mobile apps for customers.
+- **Role:** Backend Developer
+- **Tech Stack:** 📗 Node.js, 📘 TypeScript, 🐳 Docker, 🐘 PostgreSQL, 🔴 Redis
+
+## 🔍 Interests & Future Learning
+- Backend development and API design
+- Database optimization and scaling
+- Home lab experimentation and infrastructure management
+- Exploring new technologies in AI and automation
+- Continuous learning in cloud infrastructure and DevOps practices
+
+## 📫 How to reach me
+- 🌐 Website: https://denisetiawan.id
+- 💼 LinkedIn: https://www.linkedin.com/in/heydsn
+- 🐙 GitHub: https://github.com/HeyDSN
+
+## 💡 Fun Fact
+I'm always on the lookout for new open-source projects to experiment with in my home lab. If you have any cool backend or infrastructure projects to suggest, feel free to reach out!
