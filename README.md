@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Deni Setiawan
 
 ## 🚀 About Me
-I'm a passionate software engineer specializing in backend development. Currently, I'm working at PT Telkom Indonesia (Persero) Tbk as a backend engineer. My responsibilities include collaborating with my team to implement new features requested by users and maintaining our services to ensure optimal performance and stability.
+I'm a passionate software engineer specializing in backend development. ~~Currently, I'm working at PT Telkom Indonesia (Persero) Tbk as a backend engineer. My responsibilities include collaborating with my team to implement new features requested by users and maintaining our services to ensure optimal performance and stability.~~
 
 ## 🛠️ Technologies & Tools
 - Languages: Go, Node.js, TypeScript, Python, PHP
